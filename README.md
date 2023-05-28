@@ -13,8 +13,7 @@ The extracted process can be watched in the files 2.running_warehouse_men and 2.
 <br>
 <h2>Cleaning</h2>
 <br>
-After the data extraction I did the second part of this project which was the data cleaning and feature engineering process that can be found on the cleaning_pipeline_men.ipynb and cleaning_pipeline_women.ipynb inside of the folders men_running_shoes and women_running_shoes
-respectively, in this cases of data cleaning i prefer to use jupyter notebook.
+After the data extraction I did the second part of this project which was the data cleaning and feature engineering process that can be found on the cleaning_pipeline_men.ipynb and cleaning_pipeline_women.ipynb inside of the folders men_running_shoes and women_running_shoes respectively, in these cases of data cleaning i prefer to use jupyter notebook.
 <br>
 <h2>Visualize insights</h2>
 <br>
