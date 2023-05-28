@@ -10,7 +10,7 @@
 <br>
 <h2>Goals:</h2>
 <br>
-<p>Since i extracted information from a webpage where it sells running shoes of different brands (21 brands) for men and women, I am interested in knowing more about these questions: what is the price distribution between these two datasets?, is there a relationship between price and cushioning?, what is the avergae price per brand between these running shoes from this dataset?, since we can divide the prices of these shoes into 5 price ranges, what percentage of prices fall into those five categories?, where are the most discounted shoes in by brand?. These insights can help shoe retailers to make informed decisions to position their marketing strategy and setting competitive prices.</p>
+<p>Since i extracted information from a webpage where it sells running shoes of different brands (21 brands) for men and women, I am interested in knowing more about these questions: what is the price distribution between these two datasets? (men and women), is there a relationship between price and cushioning?, what is the avergae price per brand between these running shoes from this dataset?, since we can divide the prices of these shoes into 5 price ranges, what percentage of prices fall into those five categories?, where are the most discounted shoes in by brand?. These insights can help shoe retailers to make informed decisions to position their marketing strategy and setting competitive prices.</p>
 <br>
 <h2>Extraction:</h2>
 <br>
