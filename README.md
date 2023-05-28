@@ -1,1 +1,1 @@
-<img src="C:\Users\Pc\Documents\programing\7. Edixon" alt="My Image">
+<img src="C:\Users\Pc\Documents\programing\7. Edixon", alt="My Image">
