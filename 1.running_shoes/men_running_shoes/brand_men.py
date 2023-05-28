@@ -1,6 +1,12 @@
 import re
 import pandas as pd
 
+# This is the file that is going to be imported to use the dictionary where we are going to have:
+# Name of the brands and the link of the brands inside of the webpage as key values
+# The variable men_brands was a copy and paste section from the source webpage because as these tags
+# were dynamically displayed in a menu I could not use beautiful soup to extract them. 
+# Nevertheless since it is a menu of links and names it was not difficult to copy and paste them.
+
 men_brands = """
 <li class="nav-item"><a class="nav-link" href="/adidas_Mens_Running_Shoes/catpage-MRSADIDAS.html">adidas</a></li>
 <li class="nav-item"><a class="nav-link" href="/Altra_Mens_Running_Shoes/catpage-ALTRAMS.html">Altra</a></li>
@@ -26,20 +32,22 @@ men_brands = """
 
 """
 
-men_web_page = "https://www.runningwarehouse.com"
+men_web_page = "https://www.runningwarehouse.com" # ---> web page original path
 
+# Here we use regular expressions to extract only the link and the name of the brand
+# from the variable men_brands.
 links = re.findall('href="(.+?)">',men_brands)
 brand = re.findall('html">(.+)</a>', men_brands)
 #print(links)
 #print(len(brand))
 
+# we concatenate the web page path and the rest of the path extracted from the menu
+# this concatenation is going to be appended to the list complete_links.
 complete_links = []
 for link in links:
     link = men_web_page + link
     complete_links.append(link)
 
 dictionary = {"brand" : brand, "links" : complete_links}
-#print(dictionary["brand"][7])
-#
-df = pd.DataFrame(dictionary)
-print(df)
+#df = pd.DataFrame(dictionary)
+#print(df)

@@ -175,4 +175,27 @@ ax.legend(labels, loc = [0.9, 0.05])
 fig.set_facecolor("#c8d6e5")
 plt.show()
 
-# 5. 
+# 5. Where are the most discounted shoes in by brand?
+
+def format_discount(price):
+    if price == 0.0:
+        price = "no"
+    else: 
+        price = "yes"
+    return price
+
+men["discount"] = men["discount"].apply(format_discount)
+
+discounts_brand = men[["brand", "discount"]].groupby("brand").count()
+discounts_brand = discounts_brand.sort_values("discount")
+
+fig = plt.figure()
+ax = fig.add_subplot()
+
+ax.barh(discounts_brand.index, discounts_brand["discount"], color = "#01a3a4")
+ax.set_title("Number of Discounts per brand")
+ax.set_xlabel("Number")
+ax.set_facecolor("#f1f2f6")
+ax.grid(color = "#2f3542", linestyle = "--", linewidth = 0.5, axis = "x")
+
+plt.show()
