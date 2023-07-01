@@ -44,7 +44,7 @@ The extracted process can be watched in the files running_shoes_two_men and runn
 <br>
 <h2>Cleaning</h2>
 <br>
-<p>After the data extraction I did the second part of this project which was the data cleaning and feature engineering process that can be found on the file Cleaning_pipeline_insights_runrepeat inside of the folder 2.running_shoes shoes respectively respectively, i prefer to use jupyter notebook in these cases of data cleaning.</p>
+<p>After the data extraction I did the second part of this project which was the data cleaning and feature engineering process that can be found on the file Cleaning_pipeline_insights_runrepeat inside of the folder 2.running_shoes shoes respectively, i prefer to use jupyter notebook in these cases of data cleaning.</p>
 <br>
 <h2>Visualize insights</h2>
 <br>
