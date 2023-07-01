@@ -68,7 +68,13 @@ The extracted process can be watched in the files running_shoes_two_men and runn
 <br>
 <strong>To conduct market research:</strong> If you're in the business of selling shoes, comparing prices can help you to conduct market research and see how your prices compare to those of other retailers. This information can be helpful in setting your own prices and in making sure that you're competitive in the market..
 <br>
+</p>
 <br>
+<h2>Creating, loading and Combining Tables on SQL</h2>
+<br>
+<p>I created a folder called sql_one_two where I putted two csv files datasets, one from the webpage1 and the other from the webpage2, after that I applied a similarity measure based on the titles of the non repeated shoes of the webpage2 (runningwarehouse) with the most similar shoes based on the title of the webpage1 (runrepeat). Based on this analysis I created three new csv files: <strong>equal_titles.cs</strong>, <strong>running_warehouse.csv</strong>, <strong>runrepeat.csv</strong>, this process can be seen on the coding jupyter notebook file called Cleaning_shoe_tiles.ipynb
+<br>
+In MYSQL I could compare the difference of prices between the running shoes of webpage1 with the running shoes of webpage2 based on a query I wrote on the file running_shoes.sql inside of the same folder called sql_one_two.
 </p>
 <br>
 
