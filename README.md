@@ -49,6 +49,24 @@ The extracted process can be watched in the files running_shoes_two_men and runn
 <h2>Visualize insights</h2>
 <br>
 <p>The main goal of this project was to create a price comparison between running shoes of women and running shoes of men, however, in this case too as well as in the first project, the data extracted of the running shoes of men and women are very similar, as a result of this issue i focused on other insights that i could found from this dataset, these insights an visualizations using matplotlib along with pandas are in the file Cleaning_pipeline_insights_runrepeat which is inside of the folder 2.running_shoes.</p>
+<br></br>
 
 
+
+<h2>SQL: Price comparison between shoes of runrepeat and runningwarehouse webpages</h2>
+<br>
+<h2>Goals:</h2>
+<br>
+<p>Now that I have two datasets from two different webpages on csv formats, I can compare the prices between these two sources. Why this would be of interest for some people? well, here are the reasons:
+<br>
+To get the best possible deal: When you're comparing prices, you can be sure that you're getting the best possible price for the shoes you want. This is especially important if you're on a budget or if you're looking for a specific pair of shoes.
+<br>
+To track price trends. By comparing prices over time, you can track price trends and see how the price of a particular pair of shoes has changed. This information can be helpful if you're planning to buy shoes in the future and want to get a good idea of how much they'll cost.
+<br>
+To identify price discrepancies. If you see that the price of a pair of shoes is significantly different from one source to another, it could be a sign of a price discrepancy. This could be due to a number of factors, such as a sale, a clearance event, or a pricing error. By identifying price discrepancies, you can save money by buying shoes at the best possible price.
+<br>
+To conduct market research. If you're in the business of selling shoes, comparing prices can help you to conduct market research and see how your prices compare to those of other retailers. This information can be helpful in setting your own prices and in making sure that you're competitive in the market..
+<br>
+</p>
+<br>
 
