@@ -49,11 +49,11 @@ The extracted process can be watched in the files running_shoes_two_men and runn
 <h2>Visualize insights</h2>
 <br>
 <p>The main goal of this project was to create a price comparison between running shoes of women and running shoes of men, however, in this case too as well as in the first project, the data extracted of the running shoes of men and women are very similar, as a result of this issue i focused on other insights that i could found from this dataset, these insights an visualizations using matplotlib along with pandas are in the file Cleaning_pipeline_insights_runrepeat which is inside of the folder 2.running_shoes.</p>
-<br></br>
+<br>
 
 
 
-<h2>SQL: Price comparison between shoes of runrepeat and runningwarehouse webpages</h2>
+<h2>Combining the first and second project with SQL: Price comparison between shoes of runrepeat and runningwarehouse webpages</h2>
 <br>
 <h2>Goals:</h2>
 <br>
