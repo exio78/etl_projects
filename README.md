@@ -61,11 +61,15 @@ The extracted process can be watched in the files running_shoes_two_men and runn
 <br>
 To get the best possible deal: When you're comparing prices, you can be sure that you're getting the best possible price for the shoes you want. This is especially important if you're on a budget or if you're looking for a specific pair of shoes.
 <br>
-To track price trends. By comparing prices over time, you can track price trends and see how the price of a particular pair of shoes has changed. This information can be helpful if you're planning to buy shoes in the future and want to get a good idea of how much they'll cost.
 <br>
-To identify price discrepancies. If you see that the price of a pair of shoes is significantly different from one source to another, it could be a sign of a price discrepancy. This could be due to a number of factors, such as a sale, a clearance event, or a pricing error. By identifying price discrepancies, you can save money by buying shoes at the best possible price.
+To track price trends: By comparing prices over time, you can track price trends and see how the price of a particular pair of shoes has changed. This information can be helpful if you're planning to buy shoes in the future and want to get a good idea of how much they'll cost.
 <br>
-To conduct market research. If you're in the business of selling shoes, comparing prices can help you to conduct market research and see how your prices compare to those of other retailers. This information can be helpful in setting your own prices and in making sure that you're competitive in the market..
+<br>
+To identify price discrepancies: If you see that the price of a pair of shoes is significantly different from one source to another, it could be a sign of a price discrepancy. This could be due to a number of factors, such as a sale, a clearance event, or a pricing error. By identifying price discrepancies, you can save money by buying shoes at the best possible price.
+<br>
+<br>
+To conduct market research: If you're in the business of selling shoes, comparing prices can help you to conduct market research and see how your prices compare to those of other retailers. This information can be helpful in setting your own prices and in making sure that you're competitive in the market..
+<br>
 <br>
 </p>
 <br>
