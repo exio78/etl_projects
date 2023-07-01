@@ -1,0 +1,342 @@
+ID,title,price_running_warehouse,price_runrepeat,difference_dollars$,Similarity_percentage
+0,adidas adizero Prime X Strung,299.95,100,199.95,92
+1,adidas adizero Adios Pro 3,250,80,170,91
+2,adidas,179.95,170,9.95,62
+3,adidas adizero Boston 11,160,180,20,90
+4,adidas adizero Adios 7,130,150,20,84
+5,adidas adizero RC 5,99.95,150,50.05,82
+6,adidas Adizero SL,120,150,30,91
+7,adidas Ultraboost Light,190,150,40,86
+8,adidas Solar Boost 5,160,50,110,92
+9,adidas Solar Glide 6,130,150,20,92
+10,adidas Terrex Agravic Ultra,159.95,150,9.95,95
+11,adidas Terrex Speed Ultra,160,100,60,82
+12,adidas Terrex Agravic Flow 2,140,150,10,95
+13,adidas Terrex Soulstride Flow,129.95,135,5.05,89
+14,adidas Supernova 2,99.95,135,35.05,92
+15,adidas adizero Finesse Spikes,129.95,90,39.95,62
+16,adidas adizero HJ Spikes,99.95,82,17.95,67
+17,adidas Jumpstar Spikes,64.95,80,15.05,61
+18,adidas adizero Throws Shoes,119.95,170,50.05,70
+19,adidas adizero TJ/PV Spikes,109.95,100,9.95,65
+20,adidas adizero Ambition Spikes,129.95,70,59.95,64
+21,adidas adizero Avanti TYO Spikes,149.95,75,74.95,62
+22,adidas distancestar Spikes,64.95,75,10.05,64
+23,adidas sprintstar Spikes,64.95,75,10.05,62
+24,Altra Vanish Carbon,240,75,165,97
+25,Altra Vanish Tempo,170,100,70,97
+26,Altra Lone Peak 7,150,170,20,86
+27,Altra Lone Peak ALL-WTHR Low 2,180,80,100,68
+28,Altra Lone Peak ALL-WTHR Mid 2,190,80,110,68
+29,Altra Olympus 5,170,80,90,91
+30,Altra VIA Olympus,169.95,80,89.95,77
+31,Altra Superior 6,129.95,120,9.95,91
+32,Altra Superior 5,130,70,60,97
+33,Altra Torin 6,150,70,80,89
+34,Altra Torin 7,149.95,120,29.95,89
+35,Altra Torin 5,150,120,30,96
+36,Altra Escalante 3,130,150,20,97
+37,Altra Escalante Racer,140,160,20,98
+38,Altra Paradigm 6,170,120,50,91
+39,Altra Mont Blanc BOA,210,140,70,98
+40,Altra Mont Blanc,180,150,30,86
+41,Altra Timp 4,160,150,10,96
+42,Altra Rivera 3,139.95,260,120.05,97
+43,Altra Outroad,140,75,65,72
+44,Altra Outroad 2,139.95,220,80.05,74
+45,Altra Provision 7,139.95,220,80.05,97
+46,Altra Solstice XT 2,130,80,50,88
+47,ASICS Gel Nimbus 25,159.95,130,29.95,92
+48,ASICS Gel Cumulus 25,139.95,130,9.95,93
+49,ASICS Novablast 3,144.95,130,14.95,97
+50,ASICS SUPERBLAST,199.95,110,89.95,53
+51,ASICS Noosa Tri 14,130,110,20,92
+52,ASICS Gel Kayano 29,170,190,20,92
+53,ASICS Novablast 2,130,190,60,97
+54,ASICS Gel Nimbus 24,160,120,40,92
+55,ASICS Gel Nimbus Lite 3,160,120,40,98
+56,ASICS Gel Cumulus 24,130,120,10,93
+57,ASICS Gel Kayano Lite 3,160,70,90,98
+58,ASICS Magic Speed 2,150,160,10,79
+59,ASICS Magic Speed 3,159.95,65,94.95,78
+60,ASICS GT 2000 11,139.95,100,39.95,88
+61,ASICS GT 2000 11 GTX,159.95,100,59.95,83
+62,ASICS GT 2000 10,130,160,30,88
+63,ASICS Trabuco Max 2,149.95,160,10.05,97
+64,ASICS Gel Trabuco 11,139.95,160,20.05,90
+65,ASICS METASPEED Sky+,249.95,160,89.95,49
+66,ASICS METASPEED Edge+,249.95,160,89.95,51
+67,ASICS METASPEED LD Spikes,250,240,10,50
+68,ASICS GlideRide 3,149.95,59,90.95,97
+69,ASICS Hyper Speed 2,90,160,70,97
+70,ASICS Dynablast 3,99.95,130,30.05,97
+71,ASICS EvoRide 3,120,130,10,97
+72,ASICS Fuji Lite 3,120,160,40,97
+73,ASICS GT 1000 12,99.95,134,34.05,88
+74,ASICS GT 1000 11,100,155,55,88
+75,ASICS Gun Lap 2 Spikes,100,155,55,60
+76,ASICS High Jump Pro 2 Right Plant Spikes,120,140,20,46
+77,ASICS Metasprint Spikes,200,140,60,70
+78,ASICS Sonicsprint Elite 2 Spikes,150,200,50,56
+79,ASICS Triple Jump Pro 3 Spikes,120,180,60,58
+80,Birkenstock Arizona EVA,49.95,140,90.05,51
+81,Birkenstock Arizona Soft Footbed,140,100,40,44
+82,Birkenstock Arizona,110,100,10,51
+83,Birkenstock Florida Soft Footbed,145,100,45,48
+84,Birkenstock Mayari,130,90,40,47
+85,Brooks Hyperion Max,169.95,160,9.95,97
+86,Brooks Ghost 15,139.95,130,9.95,97
+87,Brooks Hyperion Tempo,150,100,50,98
+88,Brooks Cascadia 16,130,100,30,92
+89,Brooks Glycerin 20,159.95,160,0.05,88
+90,Brooks Adrenaline GTS 22,140,135,5,94
+91,Brooks Ghost 14,140,120,20,90
+92,Brooks Ghost 14 GTX,159.95,120,39.95,97
+93,Brooks Hyperion Elite 3,249.95,150,99.95,98
+94,Brooks Glycerin GTS 20,159.95,90,69.95,98
+95,Brooks Launch 9,110,150,40,90
+96,Brooks Launch GTS 9,110,110,0,97
+97,Brooks Cascadia 16 GTX,160,110,50,98
+98,Brooks Revel 6,99.95,160,60.05,97
+99,Brooks Aurora,199.95,170,29.95,87
+100,Brooks Levitate 6,150,220,70,97
+101,Brooks Levitate 6 StealthFit,149.95,130,19.95,88
+102,Brooks Ariel 20,159.95,130,29.95,97
+103,Brooks Catamount 2,169.95,130,39.95,97
+104,Brooks Catamount,160,130,30,97
+105,Brooks Dyad 11,129.95,140,10.05,97
+106,Brooks Addiction GTS 15,139.95,120,19.95,98
+107,Brooks Caldera 6,149.95,135,14.95,97
+108,Brooks Draft XC Spikes,69.95,270,200.05,60
+109,Brooks Draft XC Spikeless,64.95,140,75.05,56
+110,Brooks ELMN8 v7 Spikes,180,145,35,58
+111,Brooks Wire v8 Spikes,150,145,5,63
+112,Craft CTM Ultra Trail,174.99,75,99.99,51
+113,Craft PRO Endur Distance,139.99,140,0.01,42
+114,Craft ADV Nordic Speed 2,139.99,65,74.99,50
+115,Craft Endurance Trail,159.99,65,94.99,50
+116,Deckers X Lab KO-Z Mule,130,65,65,45
+117,Deckers X Lab KO-Z Gldtr 3,120,70,50,46
+118,Deckers X Lab X-SCAPE NBK Low,160,120,40,43
+119,HOKA Rincon 3,124.95,160,35.05,74
+120,HOKA Challenger 7,144.95,160,15.05,67
+121,HOKA Clifton 9,144.95,160,15.05,69
+122,HOKA Bondi 8,164.95,160,4.95,64
+123,HOKA Arahi 6,139.95,160,20.05,70
+124,HOKA Mach 5,139.95,140,0.05,67
+125,HOKA Clifton 8,140,140,0,69
+126,HOKA Bondi X,214.95,50,164.95,64
+127,HOKA Speedgoat 5,154.95,50,104.95,77
+128,HOKA Speedgoat 5 GTX,169.95,100,69.95,78
+129,HOKA Speedgoat 5 GTX Ice,184.95,100,84.95,76
+130,HOKA Speedgoat 5 Mid GTX,179.95,150,29.95,78
+131,HOKA Rocket X 2,249.95,140,109.95,76
+132,HOKA Tecton X 2,224.95,130,94.95,69
+133,HOKA Carbon X 3,199.95,100,99.95,76
+134,HOKA Challenger 7 GTX,159.95,100,59.95,77
+135,HOKA Challenger ATR 6,140,75,65,79
+136,HOKA Gaviota 4,169.95,100,69.95,74
+137,HOKA Kawana,139.95,100,39.95,50
+138,HOKA Stinson ATR 6,169.95,120,49.95,81
+139,HOKA Torrent 3,129.95,110,19.95,76
+140,HOKA Zinal,160,250,90,47
+141,HOKA Mafate Speed 4,184.95,250,65.05,82
+142,HOKA Ora Recovery Flip,59.95,140,80.05,51
+143,HOKA Ora Recovery Slide 3,59.95,110,50.05,50
+144,HOKA Ora Luxe,79.95,250,170.05,50
+145,HOKA Cielo X 2 LD Spikes,159.95,140,19.95,49
+146,HOKA Cielo X 2 MD Spikes,159.95,140,19.95,49
+147,HOKA Crescendo MD Spikes,79.95,160,80.05,42
+148,HOKA Rocket LD Spikes,80,160,80,57
+149,inov-8 Mudclaw 300,160,215,55,92
+150,inov-8 TrailFly G 270 v2,170,250,80,87
+151,inov-8 TrailFly Ultra G 300 Max,195,145,50,95
+152,inov-8 Trailtalon 235,145,145,0,86
+153,inov-8 Parkclaw G 280,180,70,110,83
+154,Mizuno Wave Rebellion Pro,249.95,90,159.95,98
+155,Mizuno Wave Rebellion Flash,159.95,135,24.95,98
+156,Mizuno Wave Rider 26,149.95,140,9.95,93
+157,Mizuno Wave Inspire 19,139.95,135,4.95,98
+158,Mizuno Wave Sky 6,169.95,130,39.95,97
+159,Mizuno Wave Horizon 6,169.95,160,9.95,98
+160,New Balance Fresh Foam X 1080 v12,159.95,250,90.05,92
+161,New Balance Fresh Foam X 880 v13,139.95,250,110.05,93
+162,New Balance FuelCell SuperComp Trainer,179.95,160,19.95,91
+163,New Balance Fresh Foam X 860 v13,139.95,120,19.95,90
+164,New Balance Fresh Foam X More v4,149.95,60,89.95,93
+165,New Balance FuelCell Rebel v3,129.95,70,59.95,96
+166,New Balance FuelCell SuperComp Elite v3,229.95,70,159.95,89
+167,New Balance FuelCell SuperComp Trainer v2,179.95,70,109.95,90
+168,New Balance FuelCell SuperComp Pacer,149.99,180,30.01,99
+169,New Balance FuelCell Summit Unknown v4,129.95,180,50.05,83
+170,New Balance FuelCell Summit Unknown v3,129.99,180,50.01,83
+171,New Balance FuelCell Propel v4,109.95,110,0.05,97
+172,New Balance Fresh Foam X 1080 Unlaced,159.95,180,20.05,94
+173,New Balance Fresh Foam X 860 v12,134.99,180,45.01,89
+174,New Balance Fresh Foam X 880 v12,134.99,70,64.99,92
+175,New Balance Fresh Foam X 880 v12 GTX,159.99,70,89.99,90
+176,New Balance Fresh Foam X Hierro v7 GTX,159.95,250,90.05,93
+177,New Balance Fresh Foam X Hierro Mid,159.95,144,15.95,92
+178,New Balance Fresh Foam X Hierro v7,139.99,120,19.99,94
+179,New Balance Fresh Foam X More Trail v3,159.95,120,39.95,96
+180,New Balance Fresh Foam X Vongo v5,149.95,120,29.95,95
+181,New Balance Fresh Foam X 840 v1,139.95,120,19.95,90
+182,New Balance FuelCell LD-X Spikes,159.99,65,94.99,79
+183,New Balance FuelCell MD-X Spikes,159.99,165,5.01,79
+184,New Balance FuelCell PWR-X Spikes,159.99,165,5.01,80
+185,New Balance LD5K v6 Spikes,119.95,90,29.95,74
+186,New Balance MD500 v8 Spikes,74.99,120,45.01,77
+187,New Balance XC 5K v6,109.99,100,9.99,80
+188,Nike Zoom Pegasus 40,129.95,100,29.95,84
+189,Nike Zoom Pegasus 40 Premium,139.95,130,9.95,75
+190,Nike Zoom Pegasus 39,130,60,70,84
+191,Nike Pegasus Turbo Next Nature,149.95,60,89.95,76
+192,Nike React Pegasus Trail 4,139.95,60,79.95,91
+193,Nike React Pegasus Trail 4 GTX,164.95,80,84.95,98
+194,Nike ZoomX Invincible Run Flyknit 3,179.95,80,99.95,88
+195,Nike ZoomX Invincible Run Flyknit 2,180,130,50,88
+196,Nike React Infinity Run Flyknit 3 PRM,169.95,159,10.95,93
+197,Nike React Infinity Run Flyknit 3,159.95,110,49.95,98
+198,Nike Zoom Alphafly Next% 2,274.95,110,164.95,91
+199,Nike React Terra Kiger 9,149.95,150,0.05,73
+200,Nike ZoomX Vaporfly Next% 3,249.95,165,84.95,98
+201,Nike ZoomX Vaporfly Next% 2,250,165,85,98
+202,Nike ZoomX Streakfly,159.95,150,9.95,80
+203,Nike ZoomX Zegama Trail,159.95,160,0.05,98
+204,Nike Zoom Fly 5 Premium,169.95,120,49.95,77
+205,Nike Zoom Fly 5,159.95,110,49.95,97
+206,Nike Zoom Vomero 16,149.95,110,39.95,88
+207,Nike Oneonta Sandal,65,60,5,56
+208,Nike Wildhorse 8,129.95,60,69.95,76
+209,Nike Spike-Flat Spikes,100,60,40,56
+210,Nike Winflo 10,99.95,135,35.05,69
+211,Nike Zoom Rival Distance Spikes,69.95,135,65.05,64
+212,Nike Zoom Rival Jump Spikes,69.95,160,90.05,69
+213,Nike Zoom Rival Multi Spikes,69.95,210,140.05,72
+214,Nike Zoom Rival SD 2 Throw Shoes,64.95,210,145.05,70
+215,Nike Zoom Rival Sprint Spikes,69.95,170,100.05,67
+216,Nike Zoom Rival Waffle 6 Spikeless,64.95,130,65.05,68
+217,Nike Zoom Rival XC 6 Spikes,64.95,237,172.05,73
+218,Nike ZoomX Dragonfly XC Spikes,149.95,237,87.05,67
+219,Nike Air Zoom Victory Spikes,179.95,120,59.95,69
+220,Nike Zoom High Jump Elite Spikes,124.95,193,68.05,56
+221,Nike Zoom Ja Fly 4 Spikes,109.95,193,83.05,73
+222,Nike Zoom Javelin Elite 3 Spikes,149.95,193,43.05,60
+223,Nike Zoom Long Jump Elite Spikes,149.95,193,43.05,56
+224,Nike Zoom Mamba 6 Spikes,109.95,193,83.05,63
+225,Nike Pole Vault Elite Spikes,119.95,193,73.05,56
+226,Nike Zoom Rotational 6 Throw Shoes,99.95,193,93.05,61
+227,Nike Zoom Superfly Elite 2 Spikes,149.95,193,43.05,63
+228,Nike Zoom Triple Jump Elite 2 Spikes,124.95,150,25.05,59
+229,Nike ZoomX Dragonfly Spikes,149.95,100,49.95,68
+230,NNormal Kjerag,195,100,95,44
+231,On Cloudflow 3,139.95,119,20.95,96
+232,On Cloudgo,149.95,126,23.95,95
+233,On Cloudmonster,169.95,150,19.95,75
+234,On Cloudswift 3,159.95,130,29.95,76
+235,On Cloud X 3,149.95,150,0.05,96
+236,On Cloudrunner,149.95,160,10.05,76
+237,On Cloudrunner Waterproof,169.95,75,94.95,84
+238,On Cloudstratus 2,169.95,75,94.95,97
+239,On Cloudflyer 4,169.95,130,39.95,97
+240,On Cloudsurfer,159.95,130,29.95,97
+241,On Cloudvista Waterproof,169.95,180,10.05,86
+242,On Cloudvista,149.95,180,30.05,96
+243,PUMA Deviate Nitro Elite 2,200,140,60,98
+244,PUMA Fast-R Nitro Elite,250,225,25,98
+245,PUMA Deviate Nitro 2,160,180,20,84
+246,PUMA Fast-FWD Nitro Elite,220,180,40,94
+247,PUMA ForeverRun Nitro,150,60,90,72
+248,PUMA Velocity Nitro 2,120,150,30,81
+249,PUMA Magnify Nitro,140,140,0,97
+250,Salomon S-Lab Pulsar 2 SG,180,130,50,91
+251,Salomon S-Lab Pulsar 2,180,75,105,98
+252,Salomon S-Lab Pulsar,180,130,50,98
+253,Salomon S-Lab Phantasm CF,225,130,95,96
+254,Salomon S-Lab Genesis,200,130,70,73
+255,Salomon S-Lab Ultra 3 v2,180,130,50,76
+256,Salomon S-Lab Ultra 3,200,130,70,81
+257,Salomon Pulsar Trail 2 Pro,160,125,35,94
+258,Salomon Ultra Glide 2 GTX,170,125,45,79
+259,Salomon Ultra Glide 2,150,65,85,81
+260,Salomon Ultra Glide,140,160,20,79
+261,Salomon Aero Glide,160,160,0,88
+262,Salomon Aero Volt,150,130,20,70
+263,Salomon Glide Max TR,160,120,40,95
+264,Salomon Sense Ride 5 GTX,160,120,40,89
+265,Salomon Sense Ride 5,140,100,40,93
+266,Salomon Speedcross 6 GTX,160,60,100,94
+267,Salomon Speedcross 6,140,60,80,98
+268,Salomon Phantasm,160,120,40,97
+269,Salomon Spectur,130,100,30,97
+270,Saucony Tempus,160,150,10,74
+271,Saucony Peregrine 13,140,120,20,93
+272,Saucony Endorphin Speed 3,169.95,140,29.95,98
+273,Saucony Ride 16,139.95,150,10.05,97
+274,Saucony Kinvara 14,119.95,150,30.05,92
+275,Saucony Guide 16,140,180,40,91
+276,Saucony Endorphin Elite,274.95,180,94.95,98
+277,Saucony Endorphin Pro 3,224.95,180,44.95,98
+278,Saucony Endorphin Pro 2,200,130,70,98
+279,Saucony Endorphin Speed 3 RunShield,179.95,130,49.95,99
+280,Saucony Endorphin Shift 3,150,160,10,98
+281,Saucony Endorphin Shift 3 RunShield,160,160,0,93
+282,Saucony Endorphin Edge,199.95,160,39.95,87
+283,Saucony Endorphin Cheetah Spikes,180,160,20,75
+284,Saucony Endorphin 3 Spikes,120,160,40,84
+285,Saucony Kinvara 13,120,160,40,92
+286,Saucony Ride 15 TR,140,119,21,97
+287,Saucony Ride 15 TR GTX,160,130,30,93
+288,Saucony Ride 15,140,130,10,90
+289,Saucony Ride 15 RunShield,150,150,0,77
+290,Saucony Triumph 20,160,160,0,86
+291,Saucony Triumph 20 RunShield,170,160,10,72
+292,Saucony Peregrine 13 GTX,160,160,0,94
+293,Saucony Peregrine 12,130,130,0,93
+294,Saucony Peregrine ICE+ 3,150,130,20,86
+295,Saucony Axon 3,100,185,85,72
+296,Saucony Echelon 9,150,75,75,97
+297,Saucony Freedom Crossport,149.95,75,74.95,74
+298,Saucony Freedom 5,150,100,50,97
+299,Saucony Guide 15,140,120,20,91
+300,Saucony Omni 21,140,190,50,97
+301,Saucony Xodus Ultra 2,149.95,180,30.05,98
+302,Saucony Xodus Ultra,150,110,40,93
+303,Saucony Fastwitch 9,100,140,40,97
+304,Saucony Type A9,100,140,40,97
+305,Saucony Terminal VT Spikes,150,65,85,61
+306,Saucony Sinister,150,80,70,86
+307,Saucony Soarin J 2 Spikes,100,120,20,65
+308,Saucony Uplift HJ 2 Spikes,100,130,30,58
+309,Skechers GOrun Razor 4,129.95,110,19.95,95
+310,Skechers GOrun Persistence,114.95,100,14.95,73
+311,Skechers GOrun Ride 11,119.95,200,80.05,91
+312,Skechers GOrun Ride 10,124.95,200,75.05,91
+313,Skechers GOrun Max Road 6,129.95,200,70.05,92
+314,Skechers GOrun Maxroad 5,134.95,200,65.05,94
+315,The North Face Summit VECTIV Pro,249.95,190,59.95,66
+316,The North Face Summit VECTIV Sky,198.95,190,8.95,66
+317,The North Face VECTIV Infinite 2,168.95,200,31.05,83
+318,The North Face VECTIV Enduris 3,148.95,90,58.95,82
+319,The North Face Base Camp Mule,88.95,132,43.05,66
+320,Topo Athletic Fli-Lyte 4,120,120,0,74
+321,Topo Athletic Magnifly 4,130,120,10,98
+322,Topo Athletic MT-4,125,130,5,74
+323,Topo Athletic Specter,160,130,30,98
+324,Topo Athletic Ultrafly 4,135,148,13,98
+325,Topo Athletic Ultraventure 3,150,148,2,98
+326,Topo Athletic Pursuit,140,130,10,98
+327,Topo Athletic MTN Racer 2,145,150,5,98
+328,Topo Athletic Terraventure 3,130,70,60,98
+329,Topo Athletic Cyclone 2,150,160,10,98
+330,Topo Athletic Phantom 3,145,80,65,98
+331,Topo Athletic Phantom 2,140,80,60,98
+332,Topo Athletic ST-4,110,80,30,75
+333,Topo Athletic Runventure 4,125,130,5,94
+334,Under Armour Flow Velociti Elite Unisex Shoes,249.95,130,119.95,78
+335,Under Armour FLOW Velociti Wind 2,160,90,70,90
+336,Under Armour Centric Grip Throw Shoes,89.95,150,60.05,61
+337,Under Armour Shakedown Elite Spikes,149.95,80,69.95,67
+338,Under Armour HOVR Shakedown Spikes,119.95,150,30.05,73
+339,Under Armour HOVR Skyline LJ Spikes,99.95,150,50.05,72
+340,Under Armour Kick Distance 4 Spikes,70,150,80,62
