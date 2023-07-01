@@ -10,8 +10,7 @@
 <br>
 <h2>Goals:</h2>
 <br>
-<p>I extracted information from this webpage: https://www.runningwarehouse.com/adidas_Womens_Running_Shoes/catpage-WRSADIDAS.html 
-Since i extracted information from a webpage where it sells running shoes of different brands (21 brands) for men and women, I am interested in knowing more about these questions: what is the price distribution between these two datasets? (men and women), is there a relationship between price and cushioning?, what is the average price per brand between these running shoes from this dataset?, since we can divide the prices of these shoes into 5 price ranges, what percentage of prices fall into those five categories?, where are the most discounted shoes in by brand?. These insights can help shoe retailers to make informed decisions to position their marketing strategy and setting competitive prices.</p>
+<p>Since i extracted information from a webpage where it sells running shoes of different brands (21 brands) for men and women, I am interested in knowing more about these questions: what is the price distribution between these two datasets? (men and women), is there a relationship between price and cushioning?, what is the average price per brand between these running shoes from this dataset?, since we can divide the prices of these shoes into 5 price ranges, what percentage of prices fall into those five categories?, where are the most discounted shoes in by brand?. These insights can help shoe retailers to make informed decisions to position their marketing strategy and setting competitive prices.</p>
 <br>
 <h2>Extraction:</h2>
 <br>
@@ -32,7 +31,10 @@ The extracted process can be watched in the files 2.running_warehouse_men and 2.
 <br>
 <h2>Goals:</h2>
 <br>
-<p>This time I extracted with the same technique of beautiful soup the running shoes information from a different webpage called runrepeat: https://runrepeat.com/catalog/running-shoes. I want to know more about these questions:  </p>
+<p>This time I extracted with the same technique of beautiful soup the running shoes information from a different webpage called runrepeat: https://runrepeat.com/catalog/running-shoes. I want to know more about these questions: What is the median, mean and mode
+of these running shoes prices datasets of men and women?, what is the price distribution?, what is the average price per brand?,
+what are the price ranges that these shoes fall in? (i want to do it with a pie chart as in the first project), how many discounted
+prices we have per brand?.</p>
 <br>
 <h2>Extraction:</h2>
 <br>
