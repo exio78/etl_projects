@@ -59,6 +59,7 @@ The extracted process can be watched in the files running_shoes_two_men and runn
 <br>
 <p>Now that I have two datasets from two different webpages on csv formats, I can compare the prices between these two sources. Why this would be of interest for some people? well, here are the reasons:
 <br>
+<br>
 To get the best possible deal: When you're comparing prices, you can be sure that you're getting the best possible price for the shoes you want. This is especially important if you're on a budget or if you're looking for a specific pair of shoes.
 <br>
 <br>
