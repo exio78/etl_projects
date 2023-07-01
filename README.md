@@ -38,13 +38,14 @@ prices we have per brand?.</p>
 <br>
 <h2>Extraction:</h2>
 <br>
-<p>In this project I have extracted the data using web scrapping with beautiful soup from this webpage: https://www.runningwarehouse.com/.<br>
-The extracted process can be watched in the files 2.running_warehouse_men and 2.running_warehouse_women inside of the folders men_running shoes and women_running shoes respectively, there is the code and explanation for each process of data extraction.</p>
+<p>In this project I have extracted the data using web scrapping with beautiful soup from this webpage: 
+https://runrepeat.com/catalog/running-shoes.<br>
+The extracted process can be watched in the files running_shoes_two_men and running_shoes_two_women inside of the folder 2.running_shoes shoes respectively, there is the code and explanation for each process of data extraction.</p>
 <br>
 <h2>Cleaning</h2>
 <br>
-<p>After the data extraction I did the second part of this project which was the data cleaning and feature engineering process that can be found on the cleaning_pipeline_men.ipynb and cleaning_pipeline_women.ipynb inside of the folders men_running_shoes and women_running_shoes respectively, in these cases of data cleaning i prefer to use jupyter notebook.</p>
+<p>After the data extraction I did the second part of this project which was the data cleaning and feature engineering process that can be found on the file Cleaning_pipeline_insights_runrepeat inside of the folder 2.running_shoes shoes respectively respectively, i prefer to use jupyter notebook in these cases of data cleaning.</p>
 <br>
 <h2>Visualize insights</h2>
 <br>
-<p>The main goal of this project was to create a price comparison between running shoes of women and running shoes of men, however, in this case the data extracted from only one source so far is not very good for this purpose of price comparison, the running shoes of men and women are very similar, as a result of this issue i focused on other insights that i could found from this dataset, these insights an visualizations using matplotlib along with pandas are in the file insights.ipynb which is inside of the folder with the same name.</p>
+<p>The main goal of this project was to create a price comparison between running shoes of women and running shoes of men, however, in this case too as well ad the first project, the data extracted of the running shoes of men and women are very similar, as a result of this issue i focused on other insights that i could found from this dataset, these insights an visualizations using matplotlib along with pandas are in the file Cleaning_pipeline_insights_runrepeat which is inside of the folder 2.running_shoes.</p>
