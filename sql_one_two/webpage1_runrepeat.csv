@@ -1,0 +1,342 @@
+,Title,brand,model,price,price_discount,price_discount_%
+0,Adidas Adizero Prime X Strung ,Adidas,Adizero Prime X Strung ,100.0,230.0,23.0
+1,Adidas Adizero Adios Pro 3 ,Adidas,Adizero Adios Pro 3 ,80.0,124.0,50.0
+2,Adidas 4D ,Adidas,4D ,170.0,0.0,0.0
+3,Adidas Adizero Boston 11 ,Adidas,Adizero Boston 11 ,180.0,79.0,51.0
+4,Adidas Adizero Adios 5 ,Adidas,Adizero Adios 5 ,150.0,52.0,63.0
+5,Adidas Adizero Adios 5 ,Adidas,Adizero Adios 5 ,150.0,52.0,63.0
+6,Adidas Adizero Adios 5 ,Adidas,Adizero Adios 5 ,150.0,52.0,63.0
+7,Adidas Adizero Adios 5 ,Adidas,Adizero Adios 5 ,150.0,52.0,63.0
+8,Adidas Adizero RC 2 ,Adidas,Adizero RC 2 ,50.0,64.0,36.0
+9,Adidas Adizero SL ,Adidas,Adizero SL ,150.0,60.0,50.0
+10,Adidas Adizero SL ,Adidas,Adizero SL ,150.0,60.0,50.0
+11,Adidas Ultraboost Light New ,Adidas,Ultraboost Light New ,100.0,94.0,51.0
+12,Adidas Solar Boost ,Adidas,Solar Boost ,150.0,44.0,73.0
+13,Adidas Solar Glide ,Adidas,Solar Glide ,135.0,60.0,57.0
+14,Adidas Solar Glide ,Adidas,Solar Glide ,135.0,60.0,57.0
+15,Adidas Terrex Agravic Ultra ,Adidas,Terrex Agravic Ultra ,90.0,48.0,70.0
+16,Adidas Terrex Speed Pro ,Adidas,Terrex Speed Pro ,82.0,0.0,0.0
+17,Adidas Terrex Agravic Flow ,Adidas,Terrex Agravic Flow ,80.0,72.0,45.0
+18,Adidas Terrex Soulstride ,Adidas,Terrex Soulstride ,170.0,35.0,56.0
+19,Adidas Supernova 2 ,Adidas,Supernova 2 ,100.0,41.0,59.0
+20,Adidas Questar Lab test ,Adidas,Questar Lab test ,70.0,47.0,37.0
+21,Adidas Adizero Pro ,Adidas,Adizero Pro ,75.0,87.0,52.0
+22,Adidas Adizero Pro ,Adidas,Adizero Pro ,75.0,87.0,52.0
+23,Adidas Adistar CS ,Adidas,Adistar CS ,75.0,76.0,53.0
+24,Adidas Adistar CS ,Adidas,Adistar CS ,75.0,76.0,53.0
+25,Altra Vanish Carbon ,Altra,Vanish Carbon ,100.0,220.0,8.0
+26,Altra Vanish Tempo ,Altra,Vanish Tempo ,170.0,76.0,60.0
+27,Altra Lone Peak 4.5 ,Altra,Lone Peak 4.5 ,80.0,0.0,0.0
+28,Altra Lone Peak 4.5 ,Altra,Lone Peak 4.5 ,80.0,0.0,0.0
+29,Altra Lone Peak 4.5 ,Altra,Lone Peak 4.5 ,80.0,0.0,0.0
+30,Altra Olympus 3.5 ,Altra,Olympus 3.5 ,80.0,0.0,0.0
+31,Altra VIA Olympus Lab test ,Altra,VIA Olympus Lab test ,120.0,0.0,0.0
+32,Altra Superior 5 ,Altra,Superior 5 ,70.0,60.0,50.0
+33,Altra Superior 5 ,Altra,Superior 5 ,70.0,60.0,50.0
+34,Altra Torin 4 ,Altra,Torin 4 ,120.0,0.0,0.0
+35,Altra Torin 4 ,Altra,Torin 4 ,120.0,0.0,0.0
+36,Altra Torin 5 ,Altra,Torin 5 ,150.0,52.0,65.0
+37,Altra Escalante ,Altra,Escalante ,160.0,0.0,0.0
+38,Altra Escalante Racer ,Altra,Escalante Racer ,120.0,0.0,0.0
+39,Altra Paradigm 6.0 ,Altra,Paradigm 6.0 ,140.0,100.0,38.0
+40,Altra Mont Blanc BOA ,Altra,Mont Blanc BOA ,150.0,0.0,0.0
+41,Altra Mont Blanc BOA ,Altra,Mont Blanc BOA ,150.0,0.0,0.0
+42,Altra Timp ,Altra,Timp ,260.0,0.0,0.0
+43,Altra Rivera 3 ,Altra,Rivera 3 ,75.0,0.0,0.0
+44,Altra Outroad Lab test ,Altra,Outroad Lab test ,220.0,65.0,54.0
+45,Altra Outroad Lab test ,Altra,Outroad Lab test ,220.0,65.0,54.0
+46,Altra Provision 7 ,Altra,Provision 7 ,80.0,110.0,21.0
+47,Altra Solstice ,Altra,Solstice ,130.0,0.0,0.0
+48,ASICS Gel Nimbus 23 ,ASICS,Gel Nimbus 23 ,130.0,72.0,52.0
+49,ASICS Gel Nimbus 23 ,ASICS,Gel Nimbus 23 ,130.0,72.0,52.0
+50,ASICS Gel Cumulus 22 ,ASICS,Gel Cumulus 22 ,110.0,60.0,50.0
+51,ASICS Gel Cumulus 22 ,ASICS,Gel Cumulus 22 ,110.0,60.0,50.0
+52,ASICS Novablast ,ASICS,Novablast ,190.0,70.0,46.0
+53,ASICS Novablast ,ASICS,Novablast ,190.0,70.0,46.0
+54,ASICS EvoRide ,ASICS,EvoRide ,120.0,50.0,58.0
+55,ASICS EvoRide ,ASICS,EvoRide ,120.0,50.0,58.0
+56,ASICS EvoRide ,ASICS,EvoRide ,120.0,50.0,58.0
+57,ASICS Noosa Tri 13 ,ASICS,Noosa Tri 13 ,70.0,95.0,27.0
+58,ASICS Gel Kayano 27 ,ASICS,Gel Kayano 27 ,160.0,95.0,41.0
+59,ASICS Gel Nimbus Lite ,ASICS,Gel Nimbus Lite ,65.0,35.0,77.0
+60,ASICS Gel Kayano Lite ,ASICS,Gel Kayano Lite ,100.0,120.0,25.0
+61,ASICS Magic Speed 2 Lab test ,ASICS,Magic Speed 2 Lab test ,100.0,74.0,51.0
+62,ASICS Magic Speed Lab test ,ASICS,Magic Speed Lab test ,160.0,60.0,60.0
+63,ASICS Magic Speed Lab test ,ASICS,Magic Speed Lab test ,160.0,60.0,60.0
+64,ASICS GT 2000 9 ,ASICS,GT 2000 9 ,160.0,53.0,56.0
+65,ASICS GT 2000 9 ,ASICS,GT 2000 9 ,160.0,53.0,56.0
+66,ASICS GT 2000 9 ,ASICS,GT 2000 9 ,160.0,53.0,56.0
+67,ASICS Trabuco Max ,ASICS,Trabuco Max ,240.0,72.0,49.0
+68,ASICS Gel Trabuco 9 ,ASICS,Gel Trabuco 9 ,59.0,60.0,54.0
+69,ASICS MetaSpeed Sky Lab test ,ASICS,MetaSpeed Sky Lab test ,160.0,110.0,56.0
+70,ASICS GlideRide ,ASICS,GlideRide ,130.0,72.0,52.0
+71,ASICS Hyper Speed ,ASICS,Hyper Speed ,130.0,55.0,39.0
+72,ASICS Dynablast 3 ,ASICS,Dynablast 3 ,160.0,65.0,35.0
+73,ASICS Fuji Lite 3 ,ASICS,Fuji Lite 3 ,134.0,63.0,48.0
+74,ASICS GT 1000 8 ,ASICS,GT 1000 8 ,155.0,0.0,0.0
+75,ASICS GT 1000 8 ,ASICS,GT 1000 8 ,155.0,0.0,0.0
+76,ASICS Fuji Lite 2 ,ASICS,Fuji Lite 2 ,140.0,70.0,42.0
+77,ASICS Fuji Lite 2 ,ASICS,Fuji Lite 2 ,140.0,70.0,42.0
+78,ASICS Superblast ,ASICS,Superblast ,200.0,200.0,9.0
+79,ASICS Metarun ,ASICS,Metarun ,180.0,94.0,62.0
+80,ASICS Trail Scout 2 Lab test ,ASICS,Trail Scout 2 Lab test ,140.0,39.0,35.0
+81,Brooks Hyperion ,Brooks,Hyperion ,100.0,116.0,11.0
+82,Brooks Hyperion ,Brooks,Hyperion ,100.0,116.0,11.0
+83,Brooks Hyperion ,Brooks,Hyperion ,100.0,116.0,11.0
+84,Brooks Hyperion Elite ,Brooks,Hyperion Elite ,90.0,0.0,0.0
+85,Reebok Floatride Run Fast ,Reebok,Floatride Run Fast ,160.0,77.0,45.0
+86,Brooks Hyperion Max ,Brooks,Hyperion Max ,130.0,0.0,0.0
+87,Brooks Ghost 15 ,Brooks,Ghost 15 ,100.0,0.0,0.0
+88,Brooks Ghost 15 ,Brooks,Ghost 15 ,100.0,0.0,0.0
+89,Brooks Hyperion Tempo ,Brooks,Hyperion Tempo ,160.0,93.0,38.0
+90,Brooks Cascadia 14 ,Brooks,Cascadia 14 ,135.0,0.0,0.0
+91,Brooks Glycerin GTS 20 ,Brooks,Glycerin GTS 20 ,120.0,0.0,0.0
+92,Brooks Glycerin GTS 20 ,Brooks,Glycerin GTS 20 ,120.0,0.0,0.0
+93,Brooks Adrenaline GTS 20 ,Brooks,Adrenaline GTS 20 ,150.0,0.0,0.0
+94,Brooks Ghost 14 GTX ,Brooks,Ghost 14 GTX ,90.0,120.0,25.0
+95,Brooks Hyperion Elite 3 ,Brooks,Hyperion Elite 3 ,150.0,130.0,48.0
+96,Brooks Launch 6 ,Brooks,Launch 6 ,110.0,82.0,18.0
+97,Brooks Launch GTS 9 ,Brooks,Launch GTS 9 ,110.0,70.0,36.0
+98,Brooks Cascadia 16 GTX ,Brooks,Cascadia 16 GTX ,160.0,120.0,25.0
+99,Brooks Revel 6 ,Brooks,Revel 6 ,170.0,70.0,30.0
+100,Brooks Aurora-BL ,Brooks,Aurora-BL ,220.0,0.0,0.0
+101,Brooks Levitate ,Brooks,Levitate ,130.0,69.0,54.0
+102,Brooks Levitate ,Brooks,Levitate ,130.0,69.0,54.0
+103,Brooks Levitate Stealthfit 5 ,Brooks,Levitate Stealthfit 5 ,130.0,70.0,53.0
+104,Brooks Ariel 20 ,Brooks,Ariel 20 ,130.0,150.0,6.0
+105,Brooks Catamount 2 ,Brooks,Catamount 2 ,140.0,161.0,5.0
+106,Brooks Catamount ,Brooks,Catamount ,120.0,80.0,50.0
+107,Brooks Dyad 11 ,Brooks,Dyad 11 ,135.0,0.0,0.0
+108,Brooks Addiction GTS 15 ,Brooks,Addiction GTS 15 ,270.0,120.0,14.0
+109,Brooks Caldera 6 ,Brooks,Caldera 6 ,140.0,135.0,10.0
+110,Brooks Transmit 3 ,Brooks,Transmit 3 ,145.0,73.0,27.0
+111,Brooks Transmit 3 ,Brooks,Transmit 3 ,145.0,73.0,27.0
+112,Brooks Divide ,Brooks,Divide ,75.0,0.0,0.0
+113,Dynafit Ultra 100 ,Dynafit,Ultra 100 ,140.0,80.0,43.0
+114,Saucony Endorphin Elite ,Saucony,Endorphin Elite ,65.0,0.0,0.0
+115,Saucony Endorphin Elite ,Saucony,Endorphin Elite ,65.0,0.0,0.0
+116,Saucony Endorphin Elite ,Saucony,Endorphin Elite ,65.0,0.0,0.0
+117,Hoka Mafate Speed 2 ,Hoka,Mafate Speed 2 ,70.0,0.0,0.0
+118,ASICS Gel Excite Trail ,ASICS,Gel Excite Trail ,120.0,50.0,33.0
+119,Nike Wildhorse 8 Lab test ,Nike,Wildhorse 8 Lab test ,160.0,90.0,31.0
+120,Nike Wildhorse 8 Lab test ,Nike,Wildhorse 8 Lab test ,160.0,90.0,31.0
+121,Nike Wildhorse 8 Lab test ,Nike,Wildhorse 8 Lab test ,160.0,90.0,31.0
+122,Skechers GOrun Razor 4 New ,Skechers,GOrun Razor 4 New ,160.0,99.0,24.0
+123,Hoka Rincon 3 ,Hoka,Rincon 3 ,160.0,0.0,0.0
+124,Hoka Challenger 6 ATR ,Hoka,Challenger 6 ATR ,140.0,112.0,14.0
+125,Hoka Challenger 6 ATR ,Hoka,Challenger 6 ATR ,140.0,112.0,14.0
+126,Hoka Clifton 5 ,Hoka,Clifton 5 ,50.0,99.0,24.0
+127,Hoka Clifton 5 ,Hoka,Clifton 5 ,50.0,99.0,24.0
+128,Hoka Bondi 7 ,Hoka,Bondi 7 ,100.0,0.0,0.0
+129,Hoka Bondi 7 ,Hoka,Bondi 7 ,100.0,0.0,0.0
+130,Hoka Arahi ,Hoka,Arahi ,150.0,0.0,0.0
+131,Hoka Mach ,Hoka,Mach ,140.0,0.0,0.0
+132,Hoka Speedgoat ,Hoka,Speedgoat ,130.0,118.0,16.0
+133,Hoka Speedgoat 4 GTX ,Hoka,Speedgoat 4 GTX ,100.0,0.0,0.0
+134,Hoka Speedgoat 4 GTX ,Hoka,Speedgoat 4 GTX ,100.0,0.0,0.0
+135,Hoka Speedgoat Mid 2 GTX ,Hoka,Speedgoat Mid 2 GTX ,75.0,0.0,0.0
+136,Hoka Rocket X ,Hoka,Rocket X ,100.0,135.0,25.0
+137,Hoka Rocket X ,Hoka,Rocket X ,100.0,135.0,25.0
+138,Hoka Tecton X 2 New ,Hoka,Tecton X 2 New ,120.0,0.0,0.0
+139,Hoka Carbon X ,Hoka,Carbon X ,110.0,99.0,45.0
+140,Hoka Challenger 7 GTX New ,Hoka,Challenger 7 GTX New ,250.0,0.0,0.0
+141,Hoka Gaviota ,Hoka,Gaviota ,250.0,0.0,0.0
+142,Hoka Kawana Lab test ,Hoka,Kawana Lab test ,140.0,0.0,0.0
+143,Hoka Stinson ATR 6 ,Hoka,Stinson ATR 6 ,110.0,0.0,0.0
+144,Hoka Torrent 3 ,Hoka,Torrent 3 ,250.0,0.0,0.0
+145,Hoka Zinal Lab test ,Hoka,Zinal Lab test ,140.0,85.0,47.0
+146,Hoka Mafate Speed 4 ,Hoka,Mafate Speed 4 ,140.0,0.0,0.0
+147,Altra Rivera ,Altra,Rivera ,160.0,50.0,62.0
+148,Altra Rivera ,Altra,Rivera ,160.0,50.0,62.0
+149,Altra Torin 5 Luxe ,Altra,Torin 5 Luxe ,215.0,104.0,35.0
+150,Hoka Carbon X 3 Lab test ,Hoka,Carbon X 3 Lab test ,250.0,0.0,0.0
+151,On Cloud X 3 ,On,Cloud X 3 ,145.0,0.0,0.0
+152,On Cloud X 3 ,On,Cloud X 3 ,145.0,0.0,0.0
+153,Brooks Transcend 7 ,Brooks,Transcend 7 ,70.0,80.0,50.0
+154,Inov-8 Mudclaw 300 ,Inov-8,Mudclaw 300 ,90.0,99.0,21.0
+155,Inov-8 Trailfly G 270 ,Inov-8,Trailfly G 270 ,135.0,59.0,63.0
+156,Inov-8 TrailFly Ultra G 300 Max ,Inov-8,TrailFly Ultra G 300 Max ,140.0,0.0,0.0
+157,Inov-8 Trail Talon 235 ,Inov-8,Trail Talon 235 ,135.0,75.0,35.0
+158,Inov-8 Parkclaw 240 ,Inov-8,Parkclaw 240 ,130.0,80.0,20.0
+159,Mizuno Wave Rebellion Pro ,Mizuno,Wave Rebellion Pro ,160.0,216.0,14.0
+160,Mizuno Wave Rebellion Flash ,Mizuno,Wave Rebellion Flash ,250.0,58.0,64.0
+161,Mizuno Wave Rider 23 ,Mizuno,Wave Rider 23 ,250.0,98.0,18.0
+162,Mizuno Wave Inspire 19 ,Mizuno,Wave Inspire 19 ,160.0,0.0,0.0
+163,Mizuno Wave Sky 6 ,Mizuno,Wave Sky 6 ,120.0,120.0,29.0
+164,Mizuno Wave Horizon ,Mizuno,Wave Horizon ,60.0,70.0,56.0
+165,New Balance Fresh Foam 1080 v10 ,New Balance, Fresh Foam 1080 v10 ,70.0,60.0,60.0
+166,New Balance Fresh Foam X 880 v13 New ,New Balance, Fresh Foam X 880 v13 New ,70.0,0.0,0.0
+167,New Balance Fresh Foam X 880 v13 New ,New Balance, Fresh Foam X 880 v13 New ,70.0,0.0,0.0
+168,New Balance FuelCell SuperComp Pacer ,New Balance, FuelCell SuperComp Pacer ,180.0,80.0,47.0
+169,New Balance FuelCell SuperComp Pacer ,New Balance, FuelCell SuperComp Pacer ,180.0,80.0,47.0
+170,New Balance FuelCell SuperComp Pacer ,New Balance, FuelCell SuperComp Pacer ,180.0,80.0,47.0
+171,New Balance Fresh Foam More ,New Balance, Fresh Foam More ,110.0,0.0,0.0
+172,New Balance FuelCell Rebel ,New Balance, FuelCell Rebel ,180.0,59.0,55.0
+173,New Balance FuelCell SC Elite v3 ,New Balance, FuelCell SC Elite v3 ,180.0,140.0,39.0
+174,New Balance Summit Unknown ,New Balance, Summit Unknown ,70.0,0.0,0.0
+175,New Balance Summit Unknown ,New Balance, Summit Unknown ,70.0,0.0,0.0
+176,New Balance FuelCell Propel ,New Balance, FuelCell Propel ,250.0,48.0,56.0
+177,New Balance Fresh Foam X 1080 Unlaced New ,New Balance, Fresh Foam X 1080 Unlaced New ,144.0,47.0,71.0
+178,New Balance Fresh Foam 880 v11 ,New Balance, Fresh Foam 880 v11 ,120.0,62.0,52.0
+179,New Balance Fresh Foam 880 v11 ,New Balance, Fresh Foam 880 v11 ,120.0,62.0,52.0
+180,New Balance Fresh Foam 880 v11 ,New Balance, Fresh Foam 880 v11 ,120.0,62.0,52.0
+181,New Balance Fresh Foam 880 v11 ,New Balance, Fresh Foam 880 v11 ,120.0,62.0,52.0
+182,New Balance Fresh Foam Hierro v6 GTX ,New Balance, Fresh Foam Hierro v6 GTX ,65.0,0.0,0.0
+183,New Balance Fresh Foam Hierro ,New Balance, Fresh Foam Hierro ,165.0,0.0,0.0
+184,New Balance Fresh Foam Hierro ,New Balance, Fresh Foam Hierro ,165.0,0.0,0.0
+185,New Balance Fresh Foam X More Trail v2 ,New Balance, Fresh Foam X More Trail v2 ,90.0,90.0,46.0
+186,New Balance Fresh Foam Vongo v5 ,New Balance, Fresh Foam Vongo v5 ,120.0,70.0,53.0
+187,New Balance FuelCell ,New Balance, FuelCell ,100.0,0.0,0.0
+188,New Balance FuelCell ,New Balance, FuelCell ,100.0,0.0,0.0
+189,New Balance FuelCell Prism ,New Balance, FuelCell Prism ,130.0,58.0,52.0
+190,New Balance 1500 v6 ,New Balance, 1500 v6 ,60.0,35.0,72.0
+191,New Balance 1500 v6 ,New Balance, 1500 v6 ,60.0,35.0,72.0
+192,New Balance 1500 v6 ,New Balance, 1500 v6 ,60.0,35.0,72.0
+193,Nike Air Zoom Pegasus 34 ,Nike,Air Zoom Pegasus 34 ,80.0,0.0,0.0
+194,Nike Air Zoom Pegasus 34 ,Nike,Air Zoom Pegasus 34 ,80.0,0.0,0.0
+195,Nike Air Zoom Pegasus 35 ,Nike,Air Zoom Pegasus 35 ,130.0,0.0,0.0
+196,Nike Pegasus Turbo Lab test ,Nike,Pegasus Turbo Lab test ,159.0,0.0,0.0
+197,Nike React Pegasus Trail 4 GTX ,Nike,React Pegasus Trail 4 GTX ,110.0,110.0,31.0
+198,Nike React Pegasus Trail 4 GTX ,Nike,React Pegasus Trail 4 GTX ,110.0,110.0,31.0
+199,Nike ZoomX Invincible Run Flyknit 3 Lab test ,Nike,ZoomX Invincible Run Flyknit 3 Lab test ,150.0,0.0,0.0
+200,Nike ZoomX Invincible Run Flyknit 2 Lab test ,Nike,ZoomX Invincible Run Flyknit 2 Lab test ,165.0,90.0,50.0
+201,Nike ZoomX Invincible Run Flyknit 2 Lab test ,Nike,ZoomX Invincible Run Flyknit 2 Lab test ,165.0,90.0,50.0
+202,Nike React Infinity Run Flyknit 2 ,Nike,React Infinity Run Flyknit 2 ,150.0,50.0,69.0
+203,Nike React Infinity Run Flyknit ,Nike,React Infinity Run Flyknit ,160.0,100.0,38.0
+204,Nike Air Zoom Alphafly Next% ,Nike,Air Zoom Alphafly Next% ,120.0,122.0,56.0
+205,Nike React Miler ,Nike,React Miler ,110.0,98.0,25.0
+206,Nike React Miler ,Nike,React Miler ,110.0,98.0,25.0
+207,Nike ZoomX Vaporfly Next% ,Nike,ZoomX Vaporfly Next% ,60.0,0.0,0.0
+208,Nike ZoomX Vaporfly Next% ,Nike,ZoomX Vaporfly Next% ,60.0,0.0,0.0
+209,Nike ZoomX Vaporfly Next% ,Nike,ZoomX Vaporfly Next% ,60.0,0.0,0.0
+210,Nike ZoomX Streakfly Lab test ,Nike,ZoomX Streakfly Lab test ,135.0,95.0,41.0
+211,Nike ZoomX Streakfly Lab test ,Nike,ZoomX Streakfly Lab test ,135.0,95.0,41.0
+212,Nike ZoomX Zegama Trail ,Nike,ZoomX Zegama Trail ,160.0,109.0,32.0
+213,Nike Zoom Fly 3 ,Nike,Zoom Fly 3 ,210.0,90.0,44.0
+214,Nike Zoom Fly 3 ,Nike,Zoom Fly 3 ,210.0,90.0,44.0
+215,Nike Zoom Fly ,Nike,Zoom Fly ,170.0,115.0,23.0
+216,Nike Air Zoom Vomero 16 ,Nike,Air Zoom Vomero 16 ,130.0,98.0,35.0
+217,Nike Zoom Span 4 ,Nike,Zoom Span 4 ,237.0,50.0,38.0
+218,Nike Zoom Span 4 ,Nike,Zoom Span 4 ,237.0,50.0,38.0
+219,Nike Winflo 8 Shield ,Nike,Winflo 8 Shield ,120.0,59.0,31.0
+220,Nike Zoom Rival Fly 2 ,Nike,Zoom Rival Fly 2 ,193.0,0.0,0.0
+221,Nike Zoom Rival Fly 2 ,Nike,Zoom Rival Fly 2 ,193.0,0.0,0.0
+222,Nike Zoom Rival Fly 2 ,Nike,Zoom Rival Fly 2 ,193.0,0.0,0.0
+223,Nike Zoom Rival Fly 2 ,Nike,Zoom Rival Fly 2 ,193.0,0.0,0.0
+224,Nike Zoom Rival Fly 2 ,Nike,Zoom Rival Fly 2 ,193.0,0.0,0.0
+225,Nike Zoom Rival Fly 2 ,Nike,Zoom Rival Fly 2 ,193.0,0.0,0.0
+226,Nike Zoom Rival Fly 2 ,Nike,Zoom Rival Fly 2 ,193.0,0.0,0.0
+227,Nike Zoom Rival Fly 2 ,Nike,Zoom Rival Fly 2 ,193.0,0.0,0.0
+228,Nike Air Zoom Vomero 14 ,Nike,Air Zoom Vomero 14 ,150.0,120.0,14.0
+229,Nike Zoom Fly Flyknit ,Nike,Zoom Fly Flyknit ,100.0,80.0,50.0
+230,Nike Zoom Fly Flyknit ,Nike,Zoom Fly Flyknit ,100.0,80.0,50.0
+231,Nike Zoom Gravity ,Nike,Zoom Gravity ,119.0,62.0,31.0
+232,Nike React Miler 2 Shield ,Nike,React Miler 2 Shield ,126.0,90.0,44.0
+233,Nike ZoomX Vaporfly NEXT% 2 Lab test ,Nike,ZoomX Vaporfly NEXT% 2 Lab test ,150.0,150.0,33.0
+234,On Cloudflow ,On,Cloudflow ,130.0,0.0,0.0
+235,On Cloudgo ,On,Cloudgo ,150.0,0.0,0.0
+236,On Cloudmonster Lab test ,On,Cloudmonster Lab test ,160.0,0.0,0.0
+237,On Cloudvista ,On,Cloudvista ,75.0,110.0,21.0
+238,On Cloudvista ,On,Cloudvista ,75.0,110.0,21.0
+239,On Cloudsurfer ,On,Cloudsurfer ,130.0,90.0,36.0
+240,On Cloudsurfer ,On,Cloudsurfer ,130.0,90.0,36.0
+241,On Cloud Waterproof ,On,Cloud Waterproof ,180.0,100.0,33.0
+242,On Cloud Waterproof ,On,Cloud Waterproof ,180.0,100.0,33.0
+243,On Cloudstratus ,On,Cloudstratus ,140.0,110.0,35.0
+244,On Cloudflyer 4 ,On,Cloudflyer 4 ,225.0,0.0,0.0
+245,PUMA Deviate Nitro Elite ,PUMA,Deviate Nitro Elite ,180.0,95.0,53.0
+246,PUMA Deviate Nitro Elite ,PUMA,Deviate Nitro Elite ,180.0,95.0,53.0
+247,PUMA Fast-R Nitro Elite ,PUMA,Fast-R Nitro Elite ,60.0,140.0,44.0
+248,PUMA Fast FWD Nitro Elite ,PUMA,Fast FWD Nitro Elite ,150.0,160.0,27.0
+249,PUMA Run XX Nitro ,PUMA,Run XX Nitro ,140.0,71.0,45.0
+250,PUMA Velocity Nitro 2 Lab test ,PUMA,Velocity Nitro 2 Lab test ,130.0,48.0,60.0
+251,PUMA Magnify Nitro ,PUMA,Magnify Nitro ,75.0,50.0,64.0
+252,Salomon S-Lab Pulsar ,Salomon,S-Lab Pulsar ,130.0,110.0,39.0
+253,Salomon S-Lab Pulsar ,Salomon,S-Lab Pulsar ,130.0,110.0,39.0
+254,Salomon S-Lab Pulsar ,Salomon,S-Lab Pulsar ,130.0,110.0,39.0
+255,Salomon S-Lab Pulsar ,Salomon,S-Lab Pulsar ,130.0,110.0,39.0
+256,Salomon S-Lab Pulsar ,Salomon,S-Lab Pulsar ,130.0,110.0,39.0
+257,Salomon S-Lab Phantasm ,Salomon,S-Lab Phantasm ,125.0,117.0,35.0
+258,Salomon S-Lab Phantasm ,Salomon,S-Lab Phantasm ,125.0,117.0,35.0
+259,Salomon Pulsar Trail Pro ,Salomon,Pulsar Trail Pro ,65.0,0.0,0.0
+260,Salomon Ultra Glide 2 Lab test ,Salomon,Ultra Glide 2 Lab test ,160.0,113.0,25.0
+261,Salomon Ultra Glide 2 Lab test ,Salomon,Ultra Glide 2 Lab test ,160.0,113.0,25.0
+262,Salomon Ultra Glide Lab test ,Salomon,Ultra Glide Lab test ,130.0,56.0,60.0
+263,Salomon Aero Glide New ,Salomon,Aero Glide New ,120.0,0.0,0.0
+264,Salomon Aero Glide New ,Salomon,Aero Glide New ,120.0,0.0,0.0
+265,Salomon Glide Max ,Salomon,Glide Max ,100.0,140.0,7.0
+266,Salomon Sense Ride 3 ,Salomon,Sense Ride 3 ,60.0,68.0,43.0
+267,Salomon Sense Ride 3 ,Salomon,Sense Ride 3 ,60.0,68.0,43.0
+268,Salomon Speedcross 5 GTX ,Salomon,Speedcross 5 GTX ,120.0,105.0,30.0
+269,Salomon Speedcross 6 ,Salomon,Speedcross 6 ,100.0,124.0,11.0
+270,Salomon Phantasm ,Salomon,Phantasm ,150.0,96.0,47.0
+271,Salomon Spectur ,Salomon,Spectur ,120.0,50.0,62.0
+272,Saucony Tempus Lab test ,Saucony,Tempus Lab test ,140.0,115.0,28.0
+273,Saucony Peregrine 10 ,Saucony,Peregrine 10 ,150.0,45.0,63.0
+274,Saucony Peregrine 10 ,Saucony,Peregrine 10 ,150.0,45.0,63.0
+275,Saucony Endorphin Speed ,Saucony,Endorphin Speed ,180.0,70.0,56.0
+276,Saucony Endorphin Speed ,Saucony,Endorphin Speed ,180.0,70.0,56.0
+277,Saucony Endorphin Speed ,Saucony,Endorphin Speed ,180.0,70.0,56.0
+278,Saucony Ride 16 ,Saucony,Ride 16 ,130.0,80.0,43.0
+279,Saucony Ride 16 ,Saucony,Ride 16 ,130.0,80.0,43.0
+280,Saucony Kinvara 11 ,Saucony,Kinvara 11 ,160.0,32.0,71.0
+281,Saucony Kinvara 11 ,Saucony,Kinvara 11 ,160.0,32.0,71.0
+282,Saucony Guide 13 ,Saucony,Guide 13 ,160.0,48.0,60.0
+283,Saucony Guide 13 ,Saucony,Guide 13 ,160.0,48.0,60.0
+284,Saucony Endorphin Pro ,Saucony,Endorphin Pro ,160.0,88.0,56.0
+285,Saucony Endorphin Pro ,Saucony,Endorphin Pro ,160.0,88.0,56.0
+286,Saucony Endorphin Speed 3 RunShield ,Saucony,Endorphin Speed 3 RunShield ,119.0,0.0,0.0
+287,Saucony Endorphin Shift ,Saucony,Endorphin Shift ,130.0,70.0,50.0
+288,Saucony Endorphin Shift ,Saucony,Endorphin Shift ,130.0,70.0,50.0
+289,Saucony Endorphin Shift 3 RunShield New ,Saucony,Endorphin Shift 3 RunShield New ,150.0,0.0,0.0
+290,Saucony Ride 15 TR ,Saucony,Ride 15 TR ,160.0,102.0,27.0
+291,Saucony Ride 15 TR ,Saucony,Ride 15 TR ,160.0,102.0,27.0
+292,Saucony Ride 15 TR ,Saucony,Ride 15 TR ,160.0,102.0,27.0
+293,Saucony Triumph 18 ,Saucony,Triumph 18 ,130.0,55.0,63.0
+294,Saucony Triumph 18 ,Saucony,Triumph 18 ,130.0,55.0,63.0
+295,Saucony Peregrine 11 GTX ,Saucony,Peregrine 11 GTX ,185.0,52.0,65.0
+296,Saucony Peregrine 8 ,Saucony,Peregrine 8 ,75.0,50.0,58.0
+297,Saucony Peregrine 8 ,Saucony,Peregrine 8 ,75.0,50.0,58.0
+298,Saucony Axon Lab test ,Saucony,Axon Lab test ,100.0,39.0,61.0
+299,Saucony Echelon 9 ,Saucony,Echelon 9 ,120.0,48.0,68.0
+300,Saucony Freedom 3 ,Saucony,Freedom 3 ,190.0,48.0,68.0
+301,Saucony Freedom 5 ,Saucony,Freedom 5 ,180.0,60.0,60.0
+302,Saucony Omni 21 ,Saucony,Omni 21 ,110.0,78.0,44.0
+303,Saucony Xodus Ultra 2 ,Saucony,Xodus Ultra 2 ,140.0,140.0,7.0
+304,Saucony Xodus Ultra 2 ,Saucony,Xodus Ultra 2 ,140.0,140.0,7.0
+305,Saucony Fastwitch 9 ,Saucony,Fastwitch 9 ,65.0,29.0,71.0
+306,Saucony Type A9 ,Saucony,Type A9 ,80.0,45.0,55.0
+307,Saucony Sinister New ,Saucony,Sinister New ,120.0,140.0,7.0
+308,Saucony Ride ISO 2 ,Saucony,Ride ISO 2 ,130.0,70.0,42.0
+309,Skechers GOrun Razor+ ,Skechers,GOrun Razor+ ,110.0,43.0,68.0
+310,Skechers GOrun Horizon ,Skechers,GOrun Horizon ,100.0,36.0,58.0
+311,Skechers GOrun Ride 9 ,Skechers,GOrun Ride 9 ,200.0,65.0,50.0
+312,Skechers GOrun Ride 9 ,Skechers,GOrun Ride 9 ,200.0,65.0,50.0
+313,Skechers GOrun MaxRoad 5 ,Skechers,GOrun MaxRoad 5 ,200.0,50.0,63.0
+314,Skechers GOrun MaxRoad 5 ,Skechers,GOrun MaxRoad 5 ,200.0,50.0,63.0
+315,The North Face Flight Vectiv ,The North Face, Flight Vectiv ,190.0,88.0,56.0
+316,The North Face Flight Vectiv ,The North Face, Flight Vectiv ,190.0,88.0,56.0
+317,The North Face Vectiv Infinite ,The North Face, Vectiv Infinite ,200.0,108.0,36.0
+318,The North Face Vectiv Enduris ,The North Face, Vectiv Enduris ,90.0,70.0,50.0
+319,The North Face Vectiv Eminus ,The North Face, Vectiv Eminus ,132.0,90.0,30.0
+320,Topo Athletic Pursuit ,Topo Athletic, Pursuit ,120.0,0.0,0.0
+321,Topo Athletic Pursuit ,Topo Athletic, Pursuit ,120.0,0.0,0.0
+322,Topo Athletic Magnifly 4 ,Topo Athletic, Magnifly 4 ,130.0,0.0,0.0
+323,Topo Athletic Magnifly 4 ,Topo Athletic, Magnifly 4 ,130.0,0.0,0.0
+324,Topo Athletic Specter ,Topo Athletic, Specter ,148.0,121.0,24.0
+325,Topo Athletic Specter ,Topo Athletic, Specter ,148.0,121.0,24.0
+326,Topo Athletic Ultrafly 4 ,Topo Athletic, Ultrafly 4 ,130.0,94.0,30.0
+327,Topo Athletic Ultraventure 3 ,Topo Athletic, Ultraventure 3 ,150.0,0.0,0.0
+328,Topo Athletic MTN Racer 2 ,Topo Athletic, MTN Racer 2 ,70.0,95.0,35.0
+329,Topo Athletic Terraventure 3 ,Topo Athletic, Terraventure 3 ,160.0,81.0,35.0
+330,Topo Athletic Cyclone 2 ,Topo Athletic, Cyclone 2 ,80.0,0.0,0.0
+331,Topo Athletic Phantom ,Topo Athletic, Phantom ,80.0,87.0,33.0
+332,Topo Athletic Phantom ,Topo Athletic, Phantom ,80.0,87.0,33.0
+333,Topo Athletic Runventure 3 ,Topo Athletic, Runventure 3 ,130.0,90.0,25.0
+334,Under Armour Flow Velociti Wind ,Under Armour, Flow Velociti Wind ,130.0,77.0,52.0
+335,Under Armour Flow Velociti Wind 2 ,Under Armour, Flow Velociti Wind 2 ,90.0,99.0,38.0
+336,Under Armour Fat Tire ,Under Armour, Fat Tire ,150.0,0.0,0.0
+337,Under Armour Charged Bandit ,Under Armour, Charged Bandit ,80.0,50.0,50.0
+338,Under Armour HOVR Sonic 4 ,Under Armour, HOVR Sonic 4 ,150.0,48.0,56.0
+339,Under Armour HOVR Sonic 4 ,Under Armour, HOVR Sonic 4 ,150.0,48.0,56.0
+340,Under Armour HOVR Sonic 4 ,Under Armour, HOVR Sonic 4 ,150.0,48.0,56.0
