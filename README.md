@@ -24,7 +24,7 @@ The extracted process can be watched in the files 2.running_warehouse_men and 2.
 <h2>Visualize insights</h2>
 <br>
 <p>The main goal of this project was to create a price comparison between running shoes of women and running shoes of men, however, in this case the data extracted from only one source so far is not very good for this purpose of price comparison, the running shoes of men and women are very similar, as a result of this issue i focused on other insights that i could found from this dataset, these insights an visualizations using matplotlib along with pandas are in the file insights.ipynb which is inside of the folder with the same name.</p>
-
+<br></br>
 
 
 <h2>2.Running Shoes Runrepeat: Extract, Transform-clean, Visualize</h2>
@@ -49,3 +49,6 @@ The extracted process can be watched in the files running_shoes_two_men and runn
 <h2>Visualize insights</h2>
 <br>
 <p>The main goal of this project was to create a price comparison between running shoes of women and running shoes of men, however, in this case too as well as in the first project, the data extracted of the running shoes of men and women are very similar, as a result of this issue i focused on other insights that i could found from this dataset, these insights an visualizations using matplotlib along with pandas are in the file Cleaning_pipeline_insights_runrepeat which is inside of the folder 2.running_shoes.</p>
+
+
+
