@@ -79,3 +79,23 @@ In MySQL I could compare the difference of prices between the running shoes of w
 </p>
 <br>
 
+<br>
+<h2>3.Economic Data: Extract, Transform-clean, Visualize</h2>
+<br>
+<h2>Goals:</h2>
+<br>
+<p>The main part of this project is in the file economic_data.ipynb where I developed a study of macroeconomic indicators comparing them across different countries like the US, UK, China, Germany and more during the time period of 2018-2023 on purpose in order to see how these countries developed during the coronavirus pandemic, what were their economic performance?.</p>
+<br>
+<h2>Extraction:</h2>
+<br>
+<p>I extracted the data from the FRED webpage: https://fred.stlouisfed.org and from the World bank webpage: https://www.worldbank.org/en/home using the datareader module in python, you can see how I did it on the economic_data.ipynb file inside of the directory 3. economic_data</p>
+<br>
+<h2>Cleaning</h2>
+<br>
+<p>After extractig the data, I cleaned it and organized it applying multidimensional tabular data and performing some exploratory data analysis, resampling dataframes in months and years and filling some missing values</p>
+<br>
+<h2>Visualize insights</h2>
+<br>
+<p>I visualized some insights like the correlation of gdp with unemployment, CPI (Consumer Price Index) and interest rates between different countries to see which one is more sensible to changes in GDP regarding a specific macroeconomic indicator along with an image to visualize each insight. I developed 9 insights that you can read on the economic_data.ipynb.</p>
+<br></br>
+
