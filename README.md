@@ -99,3 +99,10 @@ In MySQL I could compare the difference of prices between the running shoes of w
 <p>I visualized some insights like the correlation of gdp with unemployment, CPI (Consumer Price Index) and interest rates between different countries to see which one is more sensible to changes in GDP regarding a specific macroeconomic indicator along with an image to visualize each insight. I developed 9 insights that you can read on the economic_data.ipynb.</p>
 <br></br>
 
+<br>
+<h2>Extension of the third project: Udemy capstone projects of jose Portilla's course</h2>
+<br>
+<br>
+<p>I developed a couple of projects with the Jose Portilla's course on Udemy's webpage called Python for Data Science and Machine Learning Bootcamp. I performed some statistical analysis in the 911 calls data from kaggle and in the stock market bank prices during the economic crisis of 2008, you can see these two capstone projects inside of the directory 3.economic_data within the files called finance_project_edixon.ipynb for the bank stocks and the file 01-911 Calls Data Capstone Project.ipynb for the 911 calls data respectively.</p>
+<br>
+
