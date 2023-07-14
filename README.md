@@ -79,3 +79,23 @@ In MySQL I could compare the difference of prices between the running shoes of w
 </p>
 <br>
 
+<br>
+<h2>3.Economic Data: Extract, Transform-clean, Visualize</h2>
+<br>
+<h2>Goals:</h2>
+<br>
+<p>The main part of this project is in the file economic_data.ipynb where I developed a study of macroeconomic indicators comparing them across different countries like the US, UK, China Germany and more during the time period of 2018-2023 on purpose in order to see how these countries developed during the coronavirus pandemic, what were their economic performance?.</p>
+<br>
+<h2>Extraction:</h2>
+<br>
+<p>I extracted the data from the FRED webpage: https://fred.stlouisfed.org and from the World bank webpage: https://www.worldbank.org/en/home using the datareader module in python, you see how I did it on the economic_data.ipynb file inside of the directory 3. economic_data</p>
+<br>
+<h2>Cleaning</h2>
+<br>
+<p>After extractig the data, I cleaned it and organized it applying multidimensional tabular data and performing some exploratory data analysis, resampling dataframes in months and years and filling some missing values</p>
+<br>
+<h2>Visualize insights</h2>
+<br>
+<p>The main goal of this project was to create a price comparison between running shoes of women and running shoes of men, however, in this case the data extracted from only one source so far is not very good for this purpose of price comparison, the running shoes of men and women are very similar, as a result of this issue i focused on other insights that i could found from this dataset, these insights an visualizations using matplotlib along with pandas are in the file insights.ipynb which is inside of the folder with the same name.</p>
+<br></br>
+
