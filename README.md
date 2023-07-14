@@ -88,7 +88,7 @@ In MySQL I could compare the difference of prices between the running shoes of w
 <br>
 <h2>Extraction:</h2>
 <br>
-<p>I extracted the data from the FRED webpage: https://fred.stlouisfed.org and from the World bank webpage: https://www.worldbank.org/en/home using the datareader module in python, you see how I did it on the economic_data.ipynb file inside of the directory 3. economic_data</p>
+<p>I extracted the data from the FRED webpage: https://fred.stlouisfed.org and from the World bank webpage: https://www.worldbank.org/en/home using the datareader module in python, you can see how I did it on the economic_data.ipynb file inside of the directory 3. economic_data</p>
 <br>
 <h2>Cleaning</h2>
 <br>
@@ -96,6 +96,6 @@ In MySQL I could compare the difference of prices between the running shoes of w
 <br>
 <h2>Visualize insights</h2>
 <br>
-<p>The main goal of this project was to create a price comparison between running shoes of women and running shoes of men, however, in this case the data extracted from only one source so far is not very good for this purpose of price comparison, the running shoes of men and women are very similar, as a result of this issue i focused on other insights that i could found from this dataset, these insights an visualizations using matplotlib along with pandas are in the file insights.ipynb which is inside of the folder with the same name.</p>
+<p>I visualized some insights like the correlation of gdp with unemployment, CPI (Consumer Price Index) and interest rates between different countries to see which one is more sensible to changes in GDO regarding a specific macroeconomic indicator along with an image to visualize each insight. I developed 9 insights that you can read on the economic_data.ipynb.</p>
 <br></br>
 
