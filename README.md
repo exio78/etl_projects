@@ -84,7 +84,7 @@ In MySQL I could compare the difference of prices between the running shoes of w
 <br>
 <h2>Goals:</h2>
 <br>
-<p>The main part of this project is in the file economic_data.ipynb where I developed a study of macroeconomic indicators comparing them across different countries like the US, UK, China Germany and more during the time period of 2018-2023 on purpose in order to see how these countries developed during the coronavirus pandemic, what were their economic performance?.</p>
+<p>The main part of this project is in the file economic_data.ipynb where I developed a study of macroeconomic indicators comparing them across different countries like the US, UK, China, Germany and more during the time period of 2018-2023 on purpose in order to see how these countries developed during the coronavirus pandemic, what were their economic performance?.</p>
 <br>
 <h2>Extraction:</h2>
 <br>
@@ -96,6 +96,6 @@ In MySQL I could compare the difference of prices between the running shoes of w
 <br>
 <h2>Visualize insights</h2>
 <br>
-<p>I visualized some insights like the correlation of gdp with unemployment, CPI (Consumer Price Index) and interest rates between different countries to see which one is more sensible to changes in GDO regarding a specific macroeconomic indicator along with an image to visualize each insight. I developed 9 insights that you can read on the economic_data.ipynb.</p>
+<p>I visualized some insights like the correlation of gdp with unemployment, CPI (Consumer Price Index) and interest rates between different countries to see which one is more sensible to changes in GDP regarding a specific macroeconomic indicator along with an image to visualize each insight. I developed 9 insights that you can read on the economic_data.ipynb.</p>
 <br></br>
 
